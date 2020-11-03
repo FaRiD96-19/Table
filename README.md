@@ -35,27 +35,27 @@
     <th>دوشنبه</th>
   </tr>
    <tr>
-    <th ><a  >ساختمان داده ها</a></th>
+    <th ></th>
     <th ></th>
     <th></th>
     <th></th>
-    <th ></th>
+    <th ><a  >جبر خطی</a></th>
     <th>سه شنبه</th>
   </tr>
    <tr>
     <th ></th>
     <th ></th>
+    <th><a  >مباحث ویژه 2</a></th>
     <th></th>
-    <th></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms">الگوريتم هاي پيشرفته</a></th>
+     <th ></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th ></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">مديريت پروژه هاي نرم افزاري</a></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
+     <th ></th>
+     <th ><a>زبان خای برنامه سازی</a></th>
+     <th></th>
+    <th></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
